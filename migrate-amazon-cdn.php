@@ -5,7 +5,7 @@ Plugin URI: http://www.hsph.harvard.edu/
 Description: A plugin to migrate Multisite files from blogs.dir to the uploads directory. 
 Version: 0.1
 Network: true
-Author: HSPH WebTeam
+Author: David Marshall/HSPH WebTeam
 Author URI: http://www.hsph.harvard.edu/
 */
 
